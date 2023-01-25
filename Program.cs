@@ -9,18 +9,19 @@ class Convert
     static void Main(string[] args)
     {
         
-        AudioConvert audio = new AudioConvert();
+        //AudioConvert audio = new AudioConvert();
+        MP3 mp3 = new MP3();
         try{
-            //audio.m4a_mp3("C:\\Users\\Elève\\workspace\\Convert\\example.m4a", "C:\\Users\\Elève\\workspace\\Convert\\example.mp3");
-            //audio.m4a_wav("C:\\Users\\Elève\\workspace\\Convert\\example.m4a", "C:\\Users\\Elève\\workspace\\Convert\\example.wav");
             
+            mp3.mp3_wav("./test/example.mp3", "./test/example.wav");
+
         }
         catch{
             Console.WriteLine("Erreur");
         }
 
                 
-    }
+    }   
 
     
 

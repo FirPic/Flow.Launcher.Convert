@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NhDahwvDwBToW+6o3cuHZTXzIFB1zHqoldo8YoBaZ1/fwYaG9k7MAsRAsB6MT/AL/A94EOiux9j09Y6TG3WMqw==",
+  "dgSpecHash": "1FCTNRbZdm+ZUJFZNOqglAI3WPTLTnOatcj1gpQZm16HFeiNtNMxEa2P6QphMQhrN4lwC/SYvEX09N6NjaAucA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Elève\\workspace\\Convert\\Convert.csproj",
+  "projectFilePath": "C:\\Users\\Elève\\Documents\\GitHub\\Flow.Launcher.Convert\\Convert.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elève\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Elève\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

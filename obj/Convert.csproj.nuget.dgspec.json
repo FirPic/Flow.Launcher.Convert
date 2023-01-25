@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Elève\\workspace\\Convert\\Convert.csproj": {}
+    "C:\\Users\\Elève\\Documents\\GitHub\\Flow.Launcher.Convert\\Convert.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Elève\\workspace\\Convert\\Convert.csproj": {
+    "C:\\Users\\Elève\\Documents\\GitHub\\Flow.Launcher.Convert\\Convert.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Elève\\workspace\\Convert\\Convert.csproj",
+        "projectUniqueName": "C:\\Users\\Elève\\Documents\\GitHub\\Flow.Launcher.Convert\\Convert.csproj",
         "projectName": "Convert",
-        "projectPath": "C:\\Users\\Elève\\workspace\\Convert\\Convert.csproj",
+        "projectPath": "C:\\Users\\Elève\\Documents\\GitHub\\Flow.Launcher.Convert\\Convert.csproj",
         "packagesPath": "C:\\Users\\Elève\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Elève\\workspace\\Convert\\obj\\",
+        "outputPath": "C:\\Users\\Elève\\Documents\\GitHub\\Flow.Launcher.Convert\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elève\\AppData\\Roaming\\NuGet\\NuGet.Config"
