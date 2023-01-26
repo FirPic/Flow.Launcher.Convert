@@ -4,11 +4,10 @@ using NAudio.Wave;
 using System.Diagnostics;
 
 
-namespace Convert {
+namespace Converter {
 
 
   public class AudioConvert {
-    // .aac .aiff .au .flac .m4a .mp3 .ogg .wav .wma .pgg
 
     public List < string > audioExtensionFile = new List < string > () {
       "aac",

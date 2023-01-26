@@ -2,9 +2,9 @@
 using System.IO;
 using NAudio.Wave;
 
-namespace Convert{
+namespace Converter{
 
-class Convert
+class Converter
 {
     static void Main(string[] args)
     {
